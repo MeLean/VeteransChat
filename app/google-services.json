@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "365506099741",
+    "firebase_url": "https://veterans-chat.firebaseio.com",
+    "project_id": "veterans-chat",
+    "storage_bucket": "veterans-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365506099741:android:201a7c0b2f1ba3de",
+        "android_client_info": {
+          "package_name": "com.milen.veteranschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365506099741-28r8sn9bf4tktdhne8ufo1jsdrke0q80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAw32LlBKxwa43dfC3oe2A29dzlEzYje8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
